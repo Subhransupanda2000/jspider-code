@@ -5,7 +5,7 @@ import java.util.List;
 import static org.junit.Assert.assertEquals;
 public class TestDigitToCount {
     @Test
-    public void findLeaderTest() {
+    public void testDigitTocount() {
         int n = 10;
         int actual=DigitToCount.digitToCount(n);
         int expected=3 ;
