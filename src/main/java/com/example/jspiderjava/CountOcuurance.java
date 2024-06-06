@@ -1,13 +1,9 @@
 package com.example.jspiderjava;
-
-public class DigitToCount {
-
-    public static int digitToCount(int n) {
+public class CountOcuurance  {
+    public static int count(int n, int occurrence) {
         int count = 0;
-        n = n * n * n;
-        int ouccurance = 0;
         while (n > 0) {
-            if (n % 10 == ouccurance) {
+            if (n % 10 == occurrence) {
                 count++;
             }
             n = n / 10;
