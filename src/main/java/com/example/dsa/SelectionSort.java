@@ -3,7 +3,7 @@ package com.example.dsa;
 import java.util.Arrays;
 
 public class SelectionSort {
-    public static int[] sortedarray(int[] arr) {
+    public static int[] sortedArray(int[] arr) {
         int temp = 0;
         for (int i = 0; i <= arr.length - 1; i++) {
             int min = i;
