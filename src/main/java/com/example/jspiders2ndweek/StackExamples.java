@@ -1,5 +1,7 @@
 package com.example.jspiders2ndweek;
 
+import com.example.dsa.Stack;
+
 public class StackExamples {
     public static void main(String[] args) {
         Stack stack=new Stack(10);

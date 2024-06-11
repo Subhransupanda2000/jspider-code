@@ -1,4 +1,4 @@
-package com.example.jspiders2ndweek;
+package com.example.dsa;
 
 class StackEmptyException extends RuntimeException {
     public StackEmptyException(String message) {

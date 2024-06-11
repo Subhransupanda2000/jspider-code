@@ -1,4 +1,4 @@
-package com.example.jspiders2ndweek;
+package com.example.dsa;
 
 public class MaxElementInArray {
     public static int[] findMaxElement(int[] arr) {
