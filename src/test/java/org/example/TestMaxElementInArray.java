@@ -1,6 +1,6 @@
 package org.example;
 
-import com.example.jspiders2ndweek.MaxElementInArray;
+import com.example.dsa.MaxElementInArray;
 import org.junit.Test;
 
 import static org.junit.Assert.assertArrayEquals;
